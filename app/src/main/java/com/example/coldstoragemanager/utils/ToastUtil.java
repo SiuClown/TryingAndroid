@@ -3,7 +3,7 @@ package com.example.coldstoragemanager.utils;
 import android.content.Context;
 import android.widget.Toast;
 
-public class TosatUtil {
+public class ToastUtil {
     //封装的弹窗组件
 
     private static  Toast mToast;
